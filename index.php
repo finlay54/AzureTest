@@ -13,7 +13,7 @@
  */
 echo "Hello World.";
 echo "Hello," . " " . "world" . "!";
-echo 5*7;
+echo 5 * 7;
 ?>
 </p>
 </body>
