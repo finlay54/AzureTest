@@ -11,7 +11,10 @@
  * Date: 19/10/2015
  * Time: 14:56
  */
-echo "Hello World."; ?>
+echo "Hello World.";
+echo "Hello," . " " . "world" . "!";
+echo 5*7;
+?>
 </p>
 </body>
 </html>
