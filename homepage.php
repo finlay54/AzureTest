@@ -21,7 +21,7 @@ function displayAccessLevelInformation($accessLevel){
         echo "<p>You now have access to additional administrative features</p>";
     }
 }
-displayAccessLevelInformation();
+displayAccessLevelInformation($_COOKIE['accessLevel']);
 echo "hi";
 
 ?>
