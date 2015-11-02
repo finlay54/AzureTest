@@ -15,7 +15,7 @@
 $username = "user1";
 $password = "password1";
 
-setcooke('access_level', 'standarduser');
+setcookie('access_level', 'standarduser');
 
 ?>
 </p>
